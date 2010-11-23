@@ -1,8 +1,13 @@
-<!DOCTYPE html>
-<html>
-	<head><title>RabbitMQ in Action</title></head>
-	
-	<body>
-		<h1>RabbitMQ in Action</h1>
-	</body>
-</html>
+---
+layout: default
+title: RabbitMQ in Action
+---
+
+<div id="home">
+  <h1>Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
