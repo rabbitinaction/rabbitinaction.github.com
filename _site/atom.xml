@@ -4,7 +4,7 @@
  <title>RabbitMQ in Action - The RabbitMQ Book</title>
  <link href="http://rabbitmqinaction.com/atom.xml" rel="self"/>
  <link href="http://rabbitmqinaction.com/"/>
- <updated>2010-12-01T13:15:05-07:00</updated>
+ <updated>2010-12-01T13:26:27-07:00</updated>
  <id>http://rabbitmqinaction.com/</id>
  <author>
    <name>RabbitMQ in Action</name>
@@ -18,7 +18,7 @@
    <updated>2010-12-01T00:00:00-07:00</updated>
    <id>http://rabbitmqinaction.com/2010/12/50-percent-off-rabbitmq-in-action</id>
    <content type="html">&lt;span class='meta'&gt;December 1 2010&lt;/span&gt;
-&lt;p&gt;Been searching for that perfect Christmas vacation reading? If you&amp;#8217;ve been thinking about buying RabbitMQ in Action, Manning just gave us an offer you might want to jump on. Manning is offering 50% off the ebook or print copy through Jan 4! Just go to the &lt;a href='http://bit.ly/rabbitmq'&gt;RabbitMQ in Action order page&lt;/a&gt; and use code &lt;strong&gt;rabbit50&lt;/strong&gt; when you check out. Get immediate access to the ebook (and updates as we progress) and Manning will send you the final copy of the print book when we go to press.&lt;/p&gt;
+&lt;p&gt;Been searching for that perfect Christmas vacation reading? If you&amp;#8217;ve been thinking about buying RabbitMQ in Action, Manning just gave us an offer you might want to jump on. Manning is offering 50% off the ebook or print copy through Jan 2! Just go to the &lt;a href='http://bit.ly/rabbitmq'&gt;RabbitMQ in Action order page&lt;/a&gt; and use code &lt;strong&gt;rabbitmq50&lt;/strong&gt; when you check out. Get immediate access to the ebook (and updates as we progress) and Manning will send you the final copy of the print book when we go to press.&lt;/p&gt;
 
 &lt;p&gt;Also, we&amp;#8217;ll be posting a Github repo soon with all of the code examples from the book. This will be continually updated as we go forward. While we&amp;#8217;ve chosen Python and PHP for the official examples in the book, we know it&amp;#8217;s helpful when they&amp;#8217;re also in your language of choice. So we&amp;#8217;d like to ask your help. Whether it&amp;#8217;s Java, Haskell or anything in between, if you&amp;#8217;d like to convert the examples to your favorite language we&amp;#8217;d love to include them in the repo. Just fork us, add your code and then send us a pull request.&lt;/p&gt;
 
