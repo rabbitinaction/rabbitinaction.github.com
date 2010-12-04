@@ -31,7 +31,7 @@ img.floatleft {
 }
 
 body {
-  background-color: #D1EAEF;
+  background-color: #ffffff;
   font: 13.34px "helvetica neue", helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center; 
@@ -52,7 +52,7 @@ p {
 
 a:link,
 a:visited {
-  color: #006A7F;
+  color: #660000;
   text-decoration: none;
 }
 
@@ -98,20 +98,29 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: left;
-  width: 40em;
+  width: 50em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
 .title {
-  color: #a00;
+  color: #660000;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
+.site .title img{
+  float: left;
+  border: 1px solid #ccc;
+  margin-right: 20px;
+  margin-left: -20px;
+  height: 180px;
+  width: 130px;
+}
+
   .site .title a:link,
   .site .title a:visited {
-    color: #006A7F;
+    color: #660000;
     text-decoration: none;
     font-size: 4em;
     margin-left: -.5em;
