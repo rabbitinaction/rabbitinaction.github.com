@@ -262,8 +262,8 @@ img {
 }
 
 blockquote {
-  margin: 1em 3em;
-  color: #333333;
+  margin: 1.5em 3em;
+  color: #666666;
   border-left: 2px solid #660000;
-  padding-left: 1em;
+  padding: .05em 0 .05em 1em;
 }
