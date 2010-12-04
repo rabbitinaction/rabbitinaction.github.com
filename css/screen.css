@@ -75,6 +75,8 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  clear: both;
+  padding-top: 20px;
 }
 
   ul.posts li {
@@ -103,19 +105,24 @@ ul.posts {
   line-height: 1.5em;
 }
 
+
+.site .book{
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+
+}
+.site .book img{
+  border: 1px solid #ccc;
+  display: block;
+  height: 180px;
+  width: 130px;
+
+}
+
 .title {
   color: #660000;
   font-weight: bold;
-  margin-bottom: 2em;
-}
-
-.site .title img{
-  float: left;
-  border: 1px solid #ccc;
-  margin-right: 20px;
-  margin-left: -20px;
-  height: 180px;
-  width: 130px;
 }
 
   .site .title a:link,
@@ -140,9 +147,13 @@ ul.posts {
     color: black;
   }
 
+.site .title p{
+  color: #000;
+}
+
   .site .meta {
     color: #666;
-    font-style: italic;
+
   }
 
   .site .footer {
@@ -179,6 +190,7 @@ ul.posts {
 /*****************************************************************************/
 
 #post {
+
   
 }
 
@@ -213,6 +225,7 @@ ul.posts {
   
   #post ul {
     margin-left: 1em;
+
   }
 
 #related {
